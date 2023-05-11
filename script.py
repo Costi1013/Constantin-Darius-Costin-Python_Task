@@ -14,7 +14,7 @@ folder2 = "Folder2"
 if not os.path.exists(folder2):
     os.mkdir(folder2)
 
-# source_folder = r"C:\Users\Costi\Desktop\Task_ConstantinDariusCostin\Folder1\\"
+# source_folder = r"`C:\Users\Costi\Desktop\Task_ConstantinDariusCostin\Folder1\\"
 # destination_folder = r"C:\Users\Costi\Desktop\Task_ConstantinDariusCostin\Folder2\\"
 # destination_write = r"C:\Users\Costi\Desktop\Task_ConstantinDariusCostin\log.txt"
 
